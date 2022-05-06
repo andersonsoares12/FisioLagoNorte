@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176767880096",
+    "firebase_url": "https://fisiolago-668ee-default-rtdb.firebaseio.com",
+    "project_id": "fisiolago-668ee",
+    "storage_bucket": "fisiolago-668ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176767880096:android:8f08947468ec39ec0332c5",
+        "android_client_info": {
+          "package_name": "com.fisiolago.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176767880096-91ugv0k9r8cd1eqkq60ceume39rgos4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fisiolago.app",
+            "certificate_hash": "9a2b99180141fd989afd0f4a35acdbba532b666c"
+          }
+        },
+        {
+          "client_id": "176767880096-4m0tt3q8v12ccaomhu1dtudu9ua0k9o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-HvE3OAbVEP_ZoCD8xPD7CTO6CsABKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176767880096-4m0tt3q8v12ccaomhu1dtudu9ua0k9o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176767880096-uf4rd24olt0q8acmpetueegc1fm5lmsb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fisiolago.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>176767880096-uf4rd24olt0q8acmpetueegc1fm5lmsb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.176767880096-uf4rd24olt0q8acmpetueegc1fm5lmsb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>176767880096-91ugv0k9r8cd1eqkq60ceume39rgos4l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgQAe9B97Glq8sI_kALM2yZzTUIIEPW34</string>
+	<key>GCM_SENDER_ID</key>
+	<string>176767880096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fisiolago.app</string>
+	<key>PROJECT_ID</key>
+	<string>fisiolago-668ee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fisiolago-668ee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:176767880096:ios:f5351508f54cf1150332c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://fisiolago-668ee-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
