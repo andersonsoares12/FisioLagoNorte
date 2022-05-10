@@ -1,2 +1,2 @@
 # FisioLagoNorte
- aplicativo para clinica
+ aplicativo para clinica de fisioterapia e estetica.
